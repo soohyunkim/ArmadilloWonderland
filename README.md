@@ -1,2 +1,2 @@
 # ArmadilloWonderland
-Creative computer graphics project in THREE.js with an armadillo
+My creative outlet using THREE.js and an armadillo object.
